@@ -13,7 +13,7 @@ public class Sketch extends PApplet {
   public void setup() {
     background(210, 255, 173);
   }
-
+ 
   public void draw() {
 
     // draw sky
